@@ -11,6 +11,7 @@ Below is the output of running linear regression on the MechaCar_mpg.csv dataset
     - Yes, because the model has an okay p-value of 5.35e-11.
 
 ![linearRegressionMPGResults](./resources/linearRegressionMPGResults.png)
+<<<<<<< HEAD
 
 ## Summary Statistics on Suspension Coils
 - **The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
@@ -18,3 +19,5 @@ Below is the output of running linear regression on the MechaCar_mpg.csv dataset
 
 ![suspensionCoilsGeneral](./resources/suspensionCoilsGeneral.png)
 ![suspensionCoilsByLot](./resources/suspensionCoilsByLot.png)
+=======
+>>>>>>> fe36925a8b46125719cc74d24a4bfd8f2d6098c0
