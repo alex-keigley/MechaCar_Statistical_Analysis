@@ -10,4 +10,4 @@ Below is the output of running linear regression on the MechaCar_mpg.csv dataset
 - **Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
     - Yes, because the model has an okay p-value of 5.35e-11.
 
-!(linearRegressionMPGResults)[./resources/linearRegressionMPGResults.png]
+![linearRegressionMPGResults](./resources/linearRegressionMPGResults.png)
