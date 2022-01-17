@@ -18,3 +18,13 @@ Below is the output of running linear regression on the MechaCar_mpg.csv dataset
 
 ![suspensionCoilsGeneral](./resources/suspensionCoilsGeneral.png)
 ![suspensionCoilsByLot](./resources/suspensionCoilsByLot.png)
+
+## T-Tests on Suspension Coils
+From this test we can re-affirm what we discovered prior - that the overall coil quality was acceptable. However, Lot 3 does have overall lesser quality in regards to PSI.  
+
+![deliv3Results](./resources/deliv3Results.png)
+
+## Study Design: MechaCar vs Competition
+In order to best compare MechaCar to the competition we will be focusing on MPG. Our hypothesis is that MechaCar has better, and more consistent MPG when compared to the competition. In order to test this statistically we will run the same tests as above, however using a dataset including competitor information. By doing this we will comparing their data to ours by using a One-Sample t-Test.
+
+
